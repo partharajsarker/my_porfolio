@@ -1,4 +1,4 @@
-yimport { AdminNav } from '@/components/admin-nav';
+import { AdminNav } from '@/components/admin-nav';
 import AppLayout from '@/layouts/app-layout';
 import { Head, Link, router } from '@inertiajs/react';
 import { useState } from 'react';
