@@ -48,7 +48,7 @@ Click **"Add More"** and add these one by one:
 | `APP_NAME`         | `Partha Raj Sarker Portfolio`                         |
 | `APP_ENV`          | `production`                                          |
 | `APP_DEBUG`        | `false`                                               |
-| `APP_URL`          | `https://your-project-name.vercel.app`                |
+| `APP_URL`          | `https://portfolio.vercel.app`                        |
 | `APP_KEY`          | `base64:KXJWhi7zqTWaOHMLu5oeyp4fESNj2XBKRqJWtn8HGxs=` |
 | `DB_CONNECTION`    | `sqlite`                                              |
 | `DB_DATABASE`      | `/tmp/database.sqlite`                                |
