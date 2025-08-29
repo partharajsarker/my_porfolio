@@ -47,3 +47,6 @@ storage/logs/
 # Temporary files
 *.tmp
 *.temp
+
+# DO NOT ignore PHP files - they need to be processed
+!*.php
