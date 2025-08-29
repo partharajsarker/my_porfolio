@@ -1,0 +1,49 @@
+# Development files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts
+public/build/
+public/hot/
+public/storage/
+
+# Storage and cache
+storage/
+bootstrap/cache/
+bootstrap/ssr/
+
+# Testing
+tests/
+phpunit.xml
+.phpunit.result.cache
+
+# IDE files
+.vscode/
+.idea/
+.nova/
+.fleet/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Documentation
+README.md
+*.md
+
+# Logs
+*.log
+storage/logs/
+
+# Temporary files
+*.tmp
+*.temp

@@ -4,6 +4,7 @@
     "scripts": {
         "build": "vite build",
         "build:ssr": "vite build && vite build --ssr",
+        "build:vercel": "npm run build && php artisan config:cache && php artisan route:cache && php artisan view:cache",
         "dev": "vite",
         "format": "prettier --write resources/",
         "format:check": "prettier --check resources/",
